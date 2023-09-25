@@ -71,8 +71,7 @@
         "To add a background image"
       ],
       "right_answer": "To specify character encoding"
-    }
-  
+    },
     {
       "id": 7,
       "category": "HTML",
@@ -121,5 +120,5 @@
       ],
       "right_answer": "To define a division or section of a web page"
     }
-]
+  ]
 }
